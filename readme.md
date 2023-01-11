@@ -17,7 +17,7 @@
 - I Learned about **font sizing** and **styling**.
 - I Learned about **flex box** in css.
 
-> This project took me around 4 hours to complete.
+> This project took me around 5 hours to complete.
 
 ****
 
